@@ -46,7 +46,7 @@ public class CircularMove {
 			
 			}
 		}
-		System.out.println(x+" "+y);
+		//System.out.println(x+" "+y);
 		return (x==0 && y==0);
 	}
 
